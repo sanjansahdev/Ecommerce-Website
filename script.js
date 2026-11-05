@@ -3,22 +3,22 @@ const products = [
   {
     name: "Smartphone",
     price: 15000,
-    image: "images/smartphone.jpg"
+    image: "Images/smartphone.jpg"
   },
   {
     name: "Laptop",
     price: 55000,
-    image: "images/laptop.jpg"
+    image: "Images/laptop.jpg"
   },
   {
     name: "Headphones",
     price: 2000,
-    image: "images/headphones.jpg"
+    image: "Images/headphones.jpg"
   },
   {
     name: "Smartwatch",
     price: 3500,
-    image: "images/smartwatch.jpg"
+    image: "Images/smartwatch.jpg"
   }
 ];
 
